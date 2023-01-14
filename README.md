@@ -1,8 +1,8 @@
 # Testing
 <ol>
   <li>
-Running Tests: Once suites of unit tests and function tests are ready, they will be run in different life-cycles of the development process. ...
+Running Tests: Once suites of unit tests and function tests are ready, they will be run in different life-cycles of the development process. ...</li>
 <br>
-Test Types Tests for actions can be categorized into two broad categories. ...
+<li>Test Types Tests for actions can be categorized into two broad categories. ...
 
 </ol>
