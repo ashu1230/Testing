@@ -4,5 +4,4 @@
 <li>Test Types Tests for actions can be categorized into two broad categories. ...</li> 
 
 <li>Releasing Action:- Functional tests are essential to catch bugs in preflight development branches before being released into production. ...</li>
-  
 </ol>
